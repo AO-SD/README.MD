@@ -1,21 +1,20 @@
-<h1 align="center">👋 مرحبًا، أنا [اسمك] </h1>
-<h3 align="center">🚀 مطور بلوكشين | Smart Contracts | Web3</h3>
+# 👋 Hi, I'm [Your Name]
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=اسم_المستخدم&label=Profile%20Views&color=0e75b6&style=flat" alt="اسم_المستخدم" />
-</p>
+## 🚀 Blockchain Developer | Smart Contracts | Web3
 
----
-
-## 🚀 من أنا؟
-- 💡 مطور بلوكشين متخصص في بناء **العقود الذكية** و **التطبيقات اللامركزية (dApps)**.
-- 🔗 لدي خبرة في **Solidity, Ethereum, Web3.js, Hardhat, Truffle, IPFS**.
-- 📈 أحب استكشاف **DeFi, NFTs, DAOs** وكل ما يخص الويب اللامركزي.
-- 🌍 أبحث دائمًا عن مشاريع مفتوحة المصدر للمساهمة فيها.
+![Profile Views](https://komarev.com/ghpvc/?username=your_username&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🛠️ المهارات والتقنيات  
+## 🚀 About Me
+- 💡 Blockchain developer specializing in **Smart Contracts** and **Decentralized Applications (dApps)**.
+- 🔗 Experienced in **Solidity, Ethereum, Web3.js, Hardhat, Truffle, IPFS**.
+- 📈 Passionate about **DeFi, NFTs, DAOs**, and everything Web3.
+- 🌍 Always looking for open-source projects to contribute to.
+
+---
+
+## 🛠️ Skills & Technologies  
 
 ### **🚀 Blockchain & Smart Contracts**
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
@@ -36,29 +35,30 @@
 
 ---
 
-## 🌟 أبرز المشاريع  
-🔹 [**مشروع 1** - وصف قصير له مع رابط المستودع](#)  
-🔹 [**مشروع 2** - وصف قصير له مع رابط المستودع](#)  
-🔹 [**مشروع 3** - وصف قصير له مع رابط المستودع](#)  
+## 🌟 Featured Projects  
+🔹 [**Project 1** - Short description with repository link](#)  
+🔹 [**Project 2** - Short description with repository link](#)  
+🔹 [**Project 3** - Short description with repository link](#)  
 
 ---
 
-## 📊 إحصائيات GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=اسم_المستخدم&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=اسم_المستخدم&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
 
 ---
 
-## 📫 تواصل معي  
-🔹 **Twitter:** [@اسم_المستخدم](https://twitter.com/اسم_المستخدم)  
-🔹 **LinkedIn:** [اسمك](https://linkedin.com/in/اسمك)  
-🔹 **Email:** [email@example.com](mailto:email@example.com)  
+## 🎬 Dynamic Blockchain Animation
+![Blockchain Animation](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 ---
 
-⭐ **إذا أعجبك البروفايل، لا تنسَ ترك نجمة ⭐ على مشاريعي!**  
+## 📫 Connect With Me  
+🔹 **Twitter:** [@your_username](https://twitter.com/your_username)  
+🔹 **LinkedIn:** [Your Name](https://linkedin.com/in/your_name)  
+🔹 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+
+---
+
+⭐ **If you liked my profile, don't forget to give a star ⭐ to my projects!**
